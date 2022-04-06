@@ -15,6 +15,10 @@ audio:hover, audio:active
   transform: scale(1.05);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 audio
 {
